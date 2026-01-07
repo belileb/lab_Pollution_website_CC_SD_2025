@@ -2,7 +2,7 @@ Singidunum University
 AAI – Cloud Computing and Software Development
 
 lab_Pollution_website_CC_SD_2025  
-Public URL: http://20.90.113.99:8081/
+Public URL: http://20.90.113.99/
 
 Static web application that displays air pollution (AQI) data for Voždovac, Belgrade,
 using the Open-Meteo Air Quality API. No backend, no database.
