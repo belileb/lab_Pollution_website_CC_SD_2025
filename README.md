@@ -4,6 +4,8 @@ AAI – Cloud Computing and Software Development
 lab_Pollution_website_CC_SD_2025  
 Public URL: http://20.90.113.99/
 
+<img width="491" height="282" alt="vozdovac_air_quality" src="https://github.com/user-attachments/assets/cee23b7e-475d-43d6-9256-b32d6d10db58" />
+
 Static web application that displays air pollution (AQI) data for Voždovac, Belgrade,
 using the Open-Meteo Air Quality API. No backend, no database.
 
